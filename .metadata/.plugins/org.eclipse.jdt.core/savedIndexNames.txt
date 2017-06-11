@@ -1,0 +1,24 @@
+INDEX VERSION 1.130+C:\Users\Jul\sts-bundle\sts-3.8.4.RELEASE\Documents\.metadata\.plugins\org.eclipse.jdt.core
+3738603662.index
+2562049841.index
+465236603.index
+2235422588.index
+1365884951.index
+1966042200.index
+691148694.index
+1730981940.index
+1840548505.index
+1894007280.index
+3219137777.index
+2873085367.index
+1301832443.index
+2819095042.index
+66117508.index
+4276382449.index
+1557931918.index
+769056847.index
+3452367096.index
+458120624.index
+3057923487.index
+2448592626.index
+2456687746.index

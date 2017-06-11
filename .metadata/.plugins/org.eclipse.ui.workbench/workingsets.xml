@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1493546645793_7" label="pom-padre_enax" name="pom-padre_enax"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1493546817103_8" label="ENAX" name="ENAX">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pom-padre_enax" type="4"/>
+<item elementID="=riskRating" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1493553525418_10" label="Working set de pruebas" name="Working set de pruebas">
+<item elementID="=tutorial_maven_webapp" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=tutorial_maven" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=tutorial_maven_jar" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1492852306270_0" label="Window Working Set" name="Aggregate for window 1492852306270"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1492970135095_1" label="Window Working Set" name="Aggregate for window 1492970135094"/>
+</workingSetManager>
